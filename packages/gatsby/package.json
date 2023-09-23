@@ -37,7 +37,7 @@
     "date-fns": "^2.0.0-beta.2",
     "dedent": "^0.7.0",
     "es6-promise": "^4.2.6",
-    "gatsby": "^3",
+    "gatsby": "^4",
     "gatsby-image": "^3.7.0",
     "gatsby-plugin-algolia-docsearch": "workspace:^",
     "gatsby-plugin-catch-links": "^3.7.0",
